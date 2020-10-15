@@ -1,4 +1,4 @@
-IO# Make an AWESOME poster out of your git logs
+# Make an AWESOME poster out of your git logs
 
 How to make your own poster from your git logs. Use this exercise to have fun, and perhaps as a way to increase 
 data and programming literacy in your teams. The output is definitely something to be print and put up on the walls!
