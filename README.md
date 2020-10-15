@@ -1,6 +1,8 @@
 # Make an AWESOME poster out of your git logs
 
-How to make your own poster:
+How to make your own poster from your git logs.
+
+    ![](.github/poster_example_small.png)
 
 ## I don't have any tools, can I run it in my browser?
 
@@ -9,7 +11,9 @@ Yes! You can use the p5.js editor!
 1. Start by browing the sample code here: https://editor.p5js.org/haschdl/sketches/LGhwnphKN
 
 * Use the Play button to run the sketch. 
-![](.github/2020-10-15-12-29-14.png)
+
+    ![](.github/2020-10-15-12-29-14.png)
+
 * See the output from the right side.
 * Start tweaking the code for changes! Color, sizes etc. Break it until you like it :)
 
@@ -27,7 +31,7 @@ The name of the columns doesn't matter, but the code expects the date to be in t
 
 3. Open index.html using a web-server. I use the add-on [Live-Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and righ-click,  Open with Live Server.
 
-    ![](.github/poster_example_small.png)
+
 
 
 
