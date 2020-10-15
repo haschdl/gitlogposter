@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 841.9 1190.6"
+   style="enable-background:new 0 0 841.9 1190.6;"
+   xml:space="preserve"
+   id="svg110"
+   sodipodi:docname="Gitlog poster example 1_Iter 7 V2.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\HASCI\OneDrive - H &amp; M HENNES &amp; MAURITZ GBC AB\Documents\BizTech\DIS 2020 Presentation and Material\08 - Open sourced content\Gitlog poster example 1_Iter 7 V2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><metadata
+   id="metadata116"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs114"><rect
+   x="87.501926"
+   y="1123.1805"
+   width="669.89179"
+   height="167.83156"
+   id="rect182" /><rect
+   x="81.764095"
+   y="1126.0494"
+   width="674.19517"
+   height="177.87277"
+   id="rect176" />
+	
+	
+	
+	
+		
+	
+		
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="1"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview112"
+   showgrid="false"
+   inkscape:zoom="0.69712751"
+   inkscape:cx="463.38899"
+   inkscape:cy="596.93778"
+   inkscape:window-x="-9"
+   inkscape:window-y="1146"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg110" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{font-family:'HMAmpersand-DemiBold';}
+	.st1{font-size:18px;}
+	.st2{font-family:'HMAmpersand-Light';}
+	.st3{fill:none;}
+	.st4{font-size:12px;}
+</style>
+<g
+   id="Layer_2">
+</g>
+<text
+   id="text9"
+   x="83.887604"
+   y="1042.8993"><tspan
+     x="83.887604"
+     y="1064.4993"
+     class="st2 st1"
+     id="tspan7"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+   id="tspan170">How two years of code look like?</tspan> </tspan></text><rect
+   x="83.800003"
+   y="1094.4"
+   class="st3"
+   width="334"
+   height="53.200001"
+   id="rect11" /><text
+   id="text103"
+   x="83.787498"
+   y="1103.0885"
+   style="white-space:pre;inline-size:685.05"
+   transform="translate(0,-17.930723)"
+   xml:space="preserve"><tspan
+     x="83.787498"
+     y="1103.0885"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Created using data from git logs between 2018 and 2020. Made with javascript, flow fields, and a bit of experimentation.</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"> </tspan></tspan><tspan
+     x="83.787498"
+     y="1118.4039"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Darkers areas mean more changes to the code base.  
+</tspan></tspan><tspan
+     x="83.787498"
+     y="1133.7193"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">H Scheidl, 2020 |  @h.scheidl |  hscheidl.com</tspan></tspan></text><image
+   sodipodi:absref="C:\Users\HASCI\OneDrive - H &amp; M HENNES &amp; MAURITZ GBC AB\Documents\BizTech\DIS 2020 Presentation and Material\06  - P5JS Ouput\iter7V2.png"
+   xlink:href="../06%20%20-%20P5JS%20Ouput/iter7V2.png"
+   y="79.4879"
+   x="84.887604"
+   id="image107"
+   height="953.31879"
+   width="674.20001"
+   style="overflow:visible">
+	</image>
+<text
+   xml:space="preserve"
+   id="text174"
+   style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect176);" /><text
+   xml:space="preserve"
+   id="text180"
+   style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect182);" /></svg>
