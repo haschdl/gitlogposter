@@ -11,7 +11,7 @@ let n_rows = 0,
   size = 0;
 
 function preload() {
-  table = loadTable('/data/commits_per_day.csv', 'csv', 'header');
+  table = loadTable('data/commits_per_day.csv', 'csv', 'header');
 }
 
 function setup() {
